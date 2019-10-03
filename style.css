@@ -29,6 +29,15 @@ body {
   bottom: -110;
 }
 
+ul{
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  list-style-type: none;
+}
+
 .div_login{
   display: flex;
   align-items: center;
@@ -79,7 +88,3 @@ a:active{
   width: 200px;
   height: 20px;
 }
-
-
-/* fim da página de login /*
-
