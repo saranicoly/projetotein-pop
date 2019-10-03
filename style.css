@@ -88,3 +88,12 @@ a:active{
   width: 200px;
   height: 20px;
 }
+
+.texto-esqueci {
+  margin-left: 33px;
+}
+
+.texto-cadastre {
+  margin-right: 33px;
+  float: right;
+}
