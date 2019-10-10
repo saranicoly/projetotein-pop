@@ -112,3 +112,13 @@ a:active{
   border-style: solid;
   border-width: 0px 20px 10px 20px;
 }
+
+/* home */
+.btn_alert {
+  background-image:url("images/botao.png");
+  align-self: center;
+  height: 100px;
+  width: 98px;
+  border-radius: 10px;
+  border: 0px;
+}
